@@ -11,8 +11,8 @@ class person {
 
     }
 }
-const p1 =new person ("yeswanth","reddy");
-const p2 = new person("leo","das");
+const p1 =new person ("Jeeva","Rathinam");
+const p2 = new person("Nitheesh","Kumar");
 
 console.log(p1);
 console.log(p2);
